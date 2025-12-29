@@ -1,0 +1,1 @@
+![alt text](Screenshot_29-12-2025_193652_localhost.jpeg)
