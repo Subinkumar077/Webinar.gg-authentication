@@ -22,7 +22,7 @@ const App = () => {
           />
         </div>
 
-        <Button>Continue</Button>
+        <Button>Request OTP</Button>
         <div className="text-center mt-4">
           <div className="text-sm text-gray-300">
             Enter the 6-digit code sent to your email
